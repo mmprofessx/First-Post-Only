@@ -3,7 +3,7 @@
  *
  *  First Post Only plugin (/inc/languages/english/firstpostonly.lang.php)
  *  Author: Diogo Parrinha
- *  Copyright: © 2009-2012 Diogo Parrinha
+ *  Copyright: Â© 2009-2012 Diogo Parrinha
  *  
  *  Website: http://mybb-plugins.com
  *  License: license.txt
