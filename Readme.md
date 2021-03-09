@@ -11,6 +11,10 @@ Download the latest release and open Readme.html file with your browser.
 # Support
 For support please visit [MyBB-Plugins.com](http://forums.mybb-plugins.com/ "MyBB-Plugins.com")
 
+# Screenshot
+
+![Screenshot](/Screenshots/screenshot.png)
+
 # Changelog
 
 v1.2
