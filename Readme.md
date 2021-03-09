@@ -23,7 +23,7 @@ For support please visit [Forums.Mybb-Plugins.com](https://forums.mybb-plugins.c
 
 # Screenshot
 
-![Screenshot](/Screenshots/screenshot.png)
+![Screenshot](https://imgur.com/OeW7L55.png)
 
 # Changelog
 
